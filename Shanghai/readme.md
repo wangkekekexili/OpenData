@@ -16,4 +16,10 @@ I wish to organize the data into a more friendly format.
 	1. Date YYYYMMDD
 	2. Flow rate from 7:00 to 9:00
 	3. Flow rate from 11:00 to 13:00
-	4 Flow rate from 18:00 to 20:00
+	4. Flow rate from 18:00 to 20:00
+* ###Flow Rate for Yangpu Bridge from Pudong to Puxi
+	Each row contains four columns:
+	1. Date YYYYMMDD
+	2. Flow rate from 7:00 to 9:00
+	3. Flow rate from 11:00 to 13:00
+	4. Flow rate from 18:00 to 20:00
